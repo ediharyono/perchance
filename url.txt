@@ -1,15 +1,21 @@
 https://perchance.org/diy-perchance-api
-Character
 
+Character
 https://perchance.org/ai-character-generator
+
 text to image
 https://perchance.org/text-to-image-plugin-example-4#edit 
+
 Manga
 https://perchance.org/ai-manga-generator
+
 Imagine
 https://perchance.org/urvillain-imagine 
+https://perchance.org/ai-thumbnail-generator
+https://perchance.org/pelajarpintar-images
+
 Story
 https://perchance.org/cew7yhw4bx
 Video
 https://perchance.org/ai-video-maker
-https://perchance.org/pelajarpintar-images
+
