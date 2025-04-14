@@ -20,3 +20,8 @@ https://perchance.org/cew7yhw4bx
 Video
 https://perchance.org/ai-video-maker
 
+Story
+https://perchance.org/ai-story-generator
+
+Text to Speech
+https://perchance.org/ai-text-to-speech 
