@@ -1,3 +1,4 @@
+Perchance (Prototype)
 https://perchance.org/diy-perchance-api
 
 Character
@@ -25,3 +26,6 @@ https://perchance.org/ai-story-generator
 
 Text to Speech
 https://perchance.org/ai-text-to-speech 
+
+Ready Live
+https://theresanaiforthat.com/@kongboyso/anime-generator/ 
